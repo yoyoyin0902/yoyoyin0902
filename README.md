@@ -7,7 +7,7 @@
 
 
 
-- 📫 如何联系我 * *amy0937968@gmail.com**
+- 📫 Contact * *amy0937968@gmail.com**
 
 <h3 align="left">與我聯繫：</h3>
 <p align="left">
