@@ -1,9 +1,8 @@
 <h1 align="center">嗨 👋，我是 yoyoyin</h1>
 <h3 align="center">我是騎自行車的人😀🏔🏍。享受冒險吧。</h3>
 
-<p align="center">
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
-</p>
+
 
 
 - 📫 如何联系我 * *amy0937968@gmail.com**
