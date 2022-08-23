@@ -4,11 +4,7 @@
 ![Alt Text](https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif)
 
 
-
-
-
-
-
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 - 📫 如何联系我 * *amy0937968@gmail.com**
 
 <h3 align="left">與我聯繫：</h3>
