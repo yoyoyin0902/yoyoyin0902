@@ -1,7 +1,7 @@
 <h1 align="center">嗨 👋，我是 yoyoyin</h1>
 <h3 align="center">我是騎自行車的人😀🏔🏍。享受冒險吧。</h3>
 
-![Alt Text](<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>)
+![Alt Text](https://media.giphy.com/embed/VbnUQpnihPSIgIXuZv)
 
 
 
