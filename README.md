@@ -2,7 +2,7 @@
 <h3 align="center">我是騎自行車的人😀🏔🏍。享受冒險吧。</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 </p>
 
 
