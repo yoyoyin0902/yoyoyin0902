@@ -4,7 +4,7 @@
 ![Alt Text](https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif)
 
 <p align="center">
-  <img width="600" height="200" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 </p>
 
 
