@@ -5,6 +5,8 @@
   <img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
 </p>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zoe_0902&cover_image=true&theme=default&bar_color=fedcf3&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=zoe_0902&redirect=true)
+
 
 
 - 📫 Contact: *amy0937968@gmail.com**
